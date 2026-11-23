@@ -1,5 +1,10 @@
 # Machine Learning analysis of the human infant gut microbiome identifies influential species in type 1 diabetes
 
+[![Paper](https://img.shields.io/badge/paper-10.1016%2Fj.eswa.2021.115648-blue)](https://doi.org/10.1016/j.eswa.2021.115648)
+![GitHub last commit](https://img.shields.io/github/last-commit/MALL-Lab/MLMicrobiomeT1D)
+![Maintenance](https://img.shields.io/badge/Maintenance-Inactive-yellow)
+[![MALL Lab](https://img.shields.io/badge/MALL-Lab-233452)](https://mall-lab.github.io/)
+
 ![alt text](https://github.com/cafernandezlo/MLMicrobiomeT1D/blob/master/GraphicalAbstract.png?raw=true)
 
 ## Citation
